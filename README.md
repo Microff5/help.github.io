@@ -1,10 +1,8 @@
-## Welcome to My Suffering.
+# Welcome to My Suffering.
 
-### I am an IdleGamer™
-
-# This is the *worst* idea I have ever had
-## I am going to lose my mind over this
-### Please send help
+## This is the *worst* idea I have ever had
+### I am going to lose my mind over this
+#### Please send help
 
 - Physics Stuff™
 - Obtain Distance
