@@ -11,3 +11,8 @@
 - Speed up time
 - Increase Physics Stuff™
 - Get Lost in Numbers
+- Get Mad at Me For Not Implementing Saving
+- I'm not Implementing Saving
+- Good Luck Progressing :)
+- Dev Console is Planned For Debugging Use
+- Will Be on Backslash Because Chromebooks Don't Have F Buttons
