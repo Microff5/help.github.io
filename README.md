@@ -10,7 +10,8 @@
 - Increase Physics Stuff™
 - Get Lost in Numbers
 - Get Mad at Me For Not Implementing Saving
-- I'm not Implementing Saving
+- ~~I'm not Implementing Saving~~
+- I Need Time to Figure Saving Out
 - Good Luck Progressing :)
 - Dev Console is Planned For Debugging Use
 - Will Be on Backslash Because Chromebooks Don't Have F Buttons
