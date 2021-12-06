@@ -2,11 +2,11 @@
 
 ### I am an IdleGamer™
 
-```
 # This is the *worst* idea I have ever had
 ## I am going to lose my mind over this
 ### Please send help
 
+```markdown
 - Physics Stuff™
 - Obtain Distance
 - Speed up time
