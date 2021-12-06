@@ -2,7 +2,7 @@
 
 ### I am an IdleGamer™
 
-```markdown
+```
 # This is the *worst* idea I have ever had
 ## I am going to lose my mind over this
 ### Please send help
