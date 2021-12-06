@@ -1,23 +1,15 @@
 ## Welcome to My Suffering.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### I am an IdleGamer™
 
 ```markdown
-# Header 1
-## Header 2
-### Header 3
+# This is the _worst_ idea I have ever had
+## I am going to lose my mind over this
+### Please send help
 
-- Bulleted
-- List
+- Physics Stuff™
+- Obtain Distance
+- Speed up time
+- Increase Physics Stuff™
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
