@@ -6,11 +6,8 @@
 ## I am going to lose my mind over this
 ### Please send help
 
-```markdown
 - Physics Stuff™
 - Obtain Distance
 - Speed up time
 - Increase Physics Stuff™
 - Get Lost in Numbers
-
-```
