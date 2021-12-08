@@ -6,18 +6,20 @@
   </script>
 <script>
 function myFunction() {
+  time = 3;
   document.getElementById("demo").innerHTML = distance;
   document.getElementById("button").innerHTML = "New text!";
+  document.getElementById("header1").innerHTML = "This is test";
 }
 </script>
 </head>
 <body>
 
-<h2>Demo JavaScript in Head</h2>
+<h2 id="header1">End Me</h2>
 
 <p id="demo">A Paragraph.</p>
 
-<button type="button" onclick="myFunction()">Try it</button>
+<button type="button" onclick="myFunction()">Click</button>
   
 </body>
 </html> 
