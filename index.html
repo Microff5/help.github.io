@@ -1,25 +1,17 @@
 <!DOCTYPE html>
 <html>
 <head>
-<script src="startstartstartstart.js">
-  startstart()
-  </script>
-<script>
-function myFunction() {
-  time = 3;
-  document.getElementById("demo").innerHTML = "Paragraph <br> changed.";
-  document.getElementById("heas").innerHTML = "Paragraph changed.";
-}
-</script>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <link rel="stylesheet" type="text/css" href="depression.css">
+  <title>The Depression Game</title>
 </head>
 <body>
-
-<h2 id="heas">End Me</h2>
-
-<p id="demo">A Paragraph.</p>
-<a href="https://aarextiaokhiao.github.io/IvarK.github.io/">Actual good code</a>
-<img src="Screenshot 2021-11-19 10.08.38 AM.png" width = "100" height = "1000"> 
-<button type="button" onclick="myFunction()">Click</button>
-  
+  <p id="depression">You have <span id="amount">0</span> depression</p>
+  <div id="container">
+    <button id="1" class="btn" onclick="buyStuff(1)">Amount: 0<br>Cost:1</button>
+  </div>
 </body>
-</html> 
+<script type="text/javascript" src="../javascripts/breakinfinity.js"></script>
+<script type="text/javascript" src="depression.js"></script>
+</html>
