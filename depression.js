@@ -40,7 +40,7 @@ function buyStuff(id) {
   const elem = document.getElementById(id)
   var i = id-1
   
-  if (game.depression >= game.costs[i]) {
+  if (game.depression.gte(game.costs[i])) {
     const next = document.getElementById(id+1)
     if (next == null) {
     const btn = document.createElement("button")
